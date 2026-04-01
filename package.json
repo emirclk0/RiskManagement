@@ -45,7 +45,7 @@
       "API_BUSINESS_PARTNER": {
           "kind": "odata-v2",
           "model": "srv/external/API_BUSINESS_PARTNER",
-          "[hybrid]": {
+          "[production]": {
               "credentials": {
                   "destination": "apihub_sandbox",
                   "path": "/s4hanacloud/sap/opu/odata/sap/API_BUSINESS_PARTNER"
