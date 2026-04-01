@@ -36,6 +36,8 @@ mta_archives/
 # LCAP
 build/ui-deployer/
 build/dist/
+build/launchpad/dist/
+build/launchpad/node_modules/
 env/
 
 # Build artifacts
